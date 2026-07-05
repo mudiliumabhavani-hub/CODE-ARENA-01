@@ -1,0 +1,6 @@
+{
+  "name": "Code Arena",
+  "description": "An elegant, interactive programming battle and syntax-summoning card arena. Register with your coding language of choice, draw code-compilation sigils to synthesize programming spirits, and face the bug overlords in the compiler arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
